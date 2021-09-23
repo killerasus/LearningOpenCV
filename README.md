@@ -1,0 +1,2 @@
+# LerningOpenCV
+Learning OpenCV studies.
